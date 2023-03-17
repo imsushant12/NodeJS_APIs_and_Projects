@@ -1,0 +1,18 @@
+{
+  "name": "basic_server",
+  "version": "1.0.0",
+  "description": "A basic server created using http module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "basic",
+    "server"
+  ],
+  "author": "Sushant Gaurav",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
