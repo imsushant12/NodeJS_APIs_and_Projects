@@ -1,0 +1,1 @@
+Writing the data using the writeFile() function. I am appending the data using the appendFile() function.

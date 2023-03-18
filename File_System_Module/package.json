@@ -1,0 +1,16 @@
+{
+  "name": "file_system_module",
+  "version": "1.0.0",
+  "description": "A simple program to test various function of the file system module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "system",
+    "module"
+  ],
+  "author": "Sushant Gaurav",
+  "license": "ISC"
+}
