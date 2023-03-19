@@ -1,0 +1,20 @@
+{
+  "name": "crud_routes",
+  "version": "1.0.0",
+  "description": "A basic collections of routes for performing CRUD operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CRUD",
+    "mongodb",
+    "mongo",
+    "nodejs"
+  ],
+  "author": "Sushant Gaurav",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^5.1.0"
+  }
+}
