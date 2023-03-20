@@ -1,0 +1,24 @@
+{
+  "name": "routes_with_mongoose",
+  "version": "1.0.0",
+  "description": "A set of routes developed using Momgoose package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Routes",
+    "API",
+    "Mongodb",
+    "Mongoose",
+    "NodeJS",
+    "Schema",
+    "Model"
+  ],
+  "author": "Sushant Gaurav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.2"
+  }
+}
