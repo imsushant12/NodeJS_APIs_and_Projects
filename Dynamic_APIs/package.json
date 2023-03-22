@@ -1,0 +1,19 @@
+{
+  "name": "dynamic_apis",
+  "version": "1.0.0",
+  "description": "A set of APIs to performing CRUD operations by getting data from users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "APIs"
+  ],
+  "author": "Sushant Gaurav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.1.0",
+    "nodemon": "^2.0.21"
+  }
+}
